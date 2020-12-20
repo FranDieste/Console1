@@ -1,0 +1,12 @@
+C:\GitFran\Console1\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Domain.dll
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csprojAssemblyReference.cache
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.AssemblyInfoInputs.cache
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.AssemblyInfo.cs
+C:\GitFran\Console1\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.deps.json
+C:\GitFran\Console1\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.dll
+C:\GitFran\Console1\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.pdb
+C:\GitFran\Console1\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csproj.CopyComplete
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.dll
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.pdb
+C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csproj.CoreCompileInputs.cache
