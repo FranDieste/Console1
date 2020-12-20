@@ -72,6 +72,7 @@ namespace RegisterTool
 
             foreach (var item in types)
             {
+                //
                 _service.AddTransient(item.Key, item.Value);
 
             }
