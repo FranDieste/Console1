@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj": {}
+    "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj": {}
   },
   "projects": {
-    "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj": {
+    "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj",
+        "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-        "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\obj\\",
+        "outputPath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj": {
+    "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj",
+        "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj",
         "projectName": "Repository01",
-        "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj",
+        "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj",
         "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-        "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\obj\\",
+        "outputPath": "C:\\FranGitClone\\ConsoleApp1\\Repository01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj"
+              "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj"
               }
             }
           }
