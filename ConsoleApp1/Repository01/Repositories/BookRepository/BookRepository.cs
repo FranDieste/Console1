@@ -21,11 +21,15 @@ namespace Repository01.Repositories.BookRepository
         public void AddBook(Book book)
         {
             _context.Books.Add(book);
+            //Hola que tal
+
+
         }
 
         public IEnumerable<Book> GetBooks()
         {
             var books = GenerateBooks();
+
 
             return books;
         }
