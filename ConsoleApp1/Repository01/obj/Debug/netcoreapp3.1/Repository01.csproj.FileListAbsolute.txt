@@ -10,3 +10,15 @@ C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository0
 C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.dll
 C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.pdb
 C:\GitFran\Console1\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csproj.CoreCompileInputs.cache
+C:\FranGitClone\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.deps.json
+C:\FranGitClone\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.dll
+C:\FranGitClone\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Repository01.pdb
+C:\FranGitClone\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Domain.dll
+C:\FranGitClone\ConsoleApp1\Repository01\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csprojAssemblyReference.cache
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.AssemblyInfoInputs.cache
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.AssemblyInfo.cs
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csproj.CoreCompileInputs.cache
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.csproj.CopyComplete
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.dll
+C:\FranGitClone\ConsoleApp1\Repository01\obj\Debug\netcoreapp3.1\Repository01.pdb
