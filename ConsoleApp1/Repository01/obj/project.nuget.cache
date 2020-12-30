@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZgRXUiwSZ17Q53WNimIbR1uOx6fJyWRIEHiRRVJciz51c8yb/lesBb+cwYMoObV9k4nW6FwD01/uVKQc9ddZmA==",
+  "dgSpecHash": "Gyc8tT7aOdjuAls+8/kQwQkpmZeTGj0Wd/x/p5R2E8H/44RLlZ1EDMT8yRsm7ZfcWdhzt6aiXJ8ymxUFLxQ4gw==",
   "success": true,
-  "projectFilePath": "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj",
+  "projectFilePath": "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
