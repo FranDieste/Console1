@@ -9277,11 +9277,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
+      "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
       "projectName": "UnitTestingSamples",
-      "projectPath": "C:\\FranGitClone\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
+      "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
       "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-      "outputPath": "C:\\FranGitClone\\ConsoleApp1\\UnitTestingSamples\\obj\\",
+      "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\UnitTestingSamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9297,8 +9297,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\FranGitClone\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
-              "projectPath": "C:\\FranGitClone\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
+            "C:\\GitFran\\Console1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+              "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj"
             }
           }
         }

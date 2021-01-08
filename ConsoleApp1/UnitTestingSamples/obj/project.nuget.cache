@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pjoKXu696Gil7vftJcDVR6ya69HY+yfAmgf9+8ZOX93SSnL1SD2fXC5tWyzAMzounpw83HddW4S+z0NqAzfnw==",
+  "dgSpecHash": "oa8ym4wXoM6zxM1zGlmJc8ZXQ64iT9kCP9ALRGAbrvG8SdKSCkhhsm/r99y4AtreONPFAtPm2PopuDOPdNlI5Q==",
   "success": true,
-  "projectFilePath": "C:\\FranGitClone\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
+  "projectFilePath": "C:\\GitFran\\Console1\\ConsoleApp1\\UnitTestingSamples\\UnitTestingSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

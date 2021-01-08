@@ -6744,11 +6744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
+      "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
       "projectName": "RegisterTool",
-      "projectPath": "C:\\FranGitClone\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
+      "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
       "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-      "outputPath": "C:\\FranGitClone\\ConsoleApp1\\RegisterTool\\obj\\",
+      "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\RegisterTool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6764,8 +6764,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj": {
-              "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Repository01\\Repository01.csproj"
+            "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj": {
+              "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Repository01\\Repository01.csproj"
             }
           }
         }

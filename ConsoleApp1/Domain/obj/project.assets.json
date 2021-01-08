@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj",
+      "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-      "outputPath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\obj\\",
+      "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,8 @@ using System.Collections.Generic;
 using System.Security.Claims;
 using System.Security.Principal;
 using System.Text;
+//using Microsoft.EntityFrameworkCore;
+using System.Linq;
 
 namespace Repository01.Repositories.BookRepository
 {
@@ -17,12 +19,16 @@ namespace Repository01.Repositories.BookRepository
             _context = context;
         }
 
+      
 
         public void AddBook(Book book)
-        {
-            _context.Books.Add(book);
+        { 
+
+           _context.Books.Add(book);
             //Hola que tal
 
+            
+          
 
         }
 

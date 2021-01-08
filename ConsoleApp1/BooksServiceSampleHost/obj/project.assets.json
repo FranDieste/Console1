@@ -6781,11 +6781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FranGitClone\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
+      "projectUniqueName": "C:\\GitFran\\Console1\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
       "projectName": "BooksServiceSampleHost",
-      "projectPath": "C:\\FranGitClone\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
+      "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
       "packagesPath": "C:\\Users\\ALL\\.nuget\\packages\\",
-      "outputPath": "C:\\FranGitClone\\ConsoleApp1\\BooksServiceSampleHost\\obj\\",
+      "outputPath": "C:\\GitFran\\Console1\\ConsoleApp1\\BooksServiceSampleHost\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6801,8 +6801,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\FranGitClone\\ConsoleApp1\\Application\\Application.csproj": {
-              "projectPath": "C:\\FranGitClone\\ConsoleApp1\\Application\\Application.csproj"
+            "C:\\GitFran\\Console1\\ConsoleApp1\\Application\\Application.csproj": {
+              "projectPath": "C:\\GitFran\\Console1\\ConsoleApp1\\Application\\Application.csproj"
             }
           }
         }

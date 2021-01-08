@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L65P9azQ1cbU/n1/sCSvyj+ZqXzNhjpWf8emBZC4XpIm4xorDBTcfGbFc1g3eja8YPyvgfk96kAgLTe7GUiLCA==",
+  "dgSpecHash": "YuzL+UsxG/RWbeyx+bnq74LzW/IUi8PbLzPsNuWBqjw61b7nxGszJTY05KIsUvw8HmkBRDFyST2ePITw2j8CPg==",
   "success": true,
-  "projectFilePath": "C:\\FranGitClone\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
+  "projectFilePath": "C:\\GitFran\\Console1\\ConsoleApp1\\BooksServiceSampleHost\\BooksServiceSampleHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

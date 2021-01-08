@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UV6OzzP4Qjut3UXQxgANV9pL9MxQCQZX9ajJeIJ7LqEq5aIU5ftxGslNSqC7cWe8pB0RqXXOfxQqdigak029Yw==",
+  "dgSpecHash": "Bw0MsyUdyfsN72t1W02XsZNgudrn6jsNCTPzv5DbWgeCTRAix/W2tCkUykmW5cKKmSkaeaY04YKSkxQ8W14mKQ==",
   "success": true,
-  "projectFilePath": "C:\\FranGitClone\\ConsoleApp1\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\GitFran\\Console1\\ConsoleApp1\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

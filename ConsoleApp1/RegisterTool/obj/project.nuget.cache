@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jI2ZQF0ulL8Ic0n9p9Jk5E4KzuCrtV6k/8tTG4C2SXzVe/ULYWCdZ2APRbVzGDwWnF2JHu0/hNS3/yFRv/GSag==",
+  "dgSpecHash": "qvz/U6WV83Bf0GWx2ylJoMj+RgJE1rGjdK2R8VXxH05LFVXLx4ZD1OpNvJbqgCx7b3zXX+QeX0htc3DIXfKTzw==",
   "success": true,
-  "projectFilePath": "C:\\FranGitClone\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
+  "projectFilePath": "C:\\GitFran\\Console1\\ConsoleApp1\\RegisterTool\\RegisterTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ALL\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
