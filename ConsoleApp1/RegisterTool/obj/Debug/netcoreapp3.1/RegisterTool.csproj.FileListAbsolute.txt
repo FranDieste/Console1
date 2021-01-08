@@ -12,3 +12,17 @@ C:\GitFran\Console1\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Repository0
 C:\GitFran\Console1\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\GitFran\Console1\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.csproj.CopyComplete
 C:\GitFran\Console1\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.csproj.CoreCompileInputs.cache
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\RegisterTool.deps.json
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\RegisterTool.dll
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\RegisterTool.pdb
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Domain.dll
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Repository01.dll
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Repository01.pdb
+C:\FranGitClone\ConsoleApp1\RegisterTool\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.csprojAssemblyReference.cache
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.AssemblyInfoInputs.cache
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.AssemblyInfo.cs
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.csproj.CoreCompileInputs.cache
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.csproj.CopyComplete
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.dll
+C:\FranGitClone\ConsoleApp1\RegisterTool\obj\Debug\netcoreapp3.1\RegisterTool.pdb
