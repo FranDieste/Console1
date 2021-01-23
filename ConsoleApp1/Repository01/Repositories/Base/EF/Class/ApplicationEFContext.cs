@@ -1,4 +1,5 @@
-﻿using Domain.Aggregates.BookAggregate.Entities;
+﻿using Domain.Aggregates.BookAggregate.Configuration;
+using Domain.Aggregates.BookAggregate.Entities;
 using Domain.Aggregates.UserAggregate.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -12,6 +13,8 @@ namespace Repository01.Repositories.Base.EF.Class
         public DbSet<Book> Books { get; set; }
 
         public DbContext Instance => this;
+
+        public DbSet<SysTables> SysTables { get; set; }
 
         // public DbSet<User> Users { get; set; }
         private string GetConnectionString()

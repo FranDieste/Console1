@@ -17,6 +17,8 @@ namespace Repository01.Repositories.UserRepository
         }
         public void Add(User user)
         {
+
+            var myTables = _context.SysTables.ToList();
             _context.Users.Add(user);
 
               //_context.Users.FirstOrDefault(u=>u.)
